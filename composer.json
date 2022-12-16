@@ -1,0 +1,19 @@
+{
+    "name": "slrmty01/johnnys-fm",
+    "description": "E-commerce for the restaurant Johnnys Frappes and More",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Slrmty01\\JohnnysFm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SergioLunaDelgado",
+            "email": "sergioluna13102001@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
