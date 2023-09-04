@@ -1,5 +1,5 @@
 <footer class="container-fluid bg-warning footer">
-    <div class="row">
+    <div class="row p-3">
         <div class="col-12 col-sm-12 col-md-6 col-lg-4 mb-3">
             <p class="titulo">Horario:</p>
             <p class="parrafo">Lunes - Viernes</p>
@@ -12,10 +12,10 @@
         </div>
         <div class="col-12 col-sm-12 col-md-6 col-lg-4 mb-3">
             <p class="titulo">¿Buscas otra cosa?</p>
-            <a class="enlace" href="/admin/">¿Eres administrador?</a>
+            <a class="parrafo text-dark text-decoration-none" href="/admin/">Iniciar Sesión</a>
         </div>
         <div class="col-12">
-            <a href="https://sergiolunadel.me" class="politica-privacidad">Sitio web desarrollado por <b>Sergio Luna</b>, visita mi página personal aquí</a>
+            <a href="https://sergioluna.me" target="_blank" rel="noopener noreferrer" class="politica-privacidad">Sitio web desarrollado por <b>Sergio Luna</b>, visita mi página personal aquí</a>
         </div>
     </div>
 </footer>
